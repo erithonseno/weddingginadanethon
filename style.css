@@ -34,7 +34,7 @@ body {
 /* ========== Hero Section ========== */
 .hero {
     height: 100vh;
-    background-image: url("img/cover.png");
+    background-image: url("../img/cover.png");
     background-position: center center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1218,3 +1218,4 @@ body {
     }
 
 }
+
