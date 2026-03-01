@@ -34,7 +34,6 @@ body {
 /* ========== Hero Section ========== */
 .hero {
     height: 100vh;
-    background-color: #573000;
     background-image: url("img/cover.png");
     background-position: center center;
     background-size: cover;
@@ -1217,4 +1216,5 @@ body {
     .rose-decoration.rose-light {
         opacity: 0.4;
     }
+
 }
